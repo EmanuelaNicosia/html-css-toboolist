@@ -1,0 +1,43 @@
+html {
+    background-color: #f6f8f9;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: white;
+    padding: 8px 16px;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    margin-top: 35px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#box-bottoni {
+    background-color: white;
+    margin-bottom: 4px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#box-bottoni button {
+    border-radius: 3px;
+    padding: 4px 8px;
+}
+
+#task {
+    background-color: #14aaf5;
+    border: 1px solid #14aaf5;
+}
+
+#section {
+    background-color: white;
+    border: 1px solid #dce0e2;
+}
